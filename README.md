@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Game Development
 - 🌱 I’m currently learning ... Roblox and Unity Game Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... $age_Dev#5646 at Discord
+- 📫 How to reach me ... sage_dev at Discord
 
 <!---
 Sage-Dev-Rblx-Unity/Sage-Dev-Rblx-Unity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
